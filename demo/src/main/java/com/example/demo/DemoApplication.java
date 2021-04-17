@@ -7,9 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     /*
-    * function:
-    * param:
-    * throw:
+    * function:test
+    * param:args
+    * throw:null
     */
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
