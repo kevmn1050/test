@@ -11,11 +11,6 @@ public class DemoApplication {
     * param:
     * throw:
     */
-    /*
-    * function:
-    * param:
-    * throw:
-    */
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
 
